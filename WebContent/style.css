@@ -1,0 +1,43 @@
+/* 
+    Document   : style
+    Created on : March 21, 2014, 8:16:13 AM
+    Author     : Gautam
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.middle
+{
+    width:1024px;
+}
+.right
+{
+    width:50%;
+}
+.left
+{
+    width:50%;
+}
+.tbl
+{
+    padding: 0px;
+    border-spacing: 0px;
+}
+a
+{
+    text-decoration: none;
+    color:blue;
+}
+a:hover
+{
+    text-decoration:underline;
+}
